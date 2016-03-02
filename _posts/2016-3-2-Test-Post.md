@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Test
+title: TEST POST
 ---
 
-12345
+TESTING
 
-abcde
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+123abc
