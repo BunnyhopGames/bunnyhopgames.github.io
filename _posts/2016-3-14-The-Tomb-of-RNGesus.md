@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7DRL 2016: The Tomb of RNGesus
+title: The Tomb of RNGesus
 ---
 
 For the 2016 7DRL competition this year I've created a game called "The Tomb of RNGesus."
