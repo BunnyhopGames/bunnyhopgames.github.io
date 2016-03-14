@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Tomb of RNGesus
+---
+
 For the 2016 7DRL competition this year I've created a game called "The Tomb of RNGesus."
 
 The core mechanic of this game is the ability to see whether your attack will be a miss, hit, or critical hit before you actually take the attack. In fact, you can actually see your 5 next moves, as well as being able to see the next 3 moves of all enemies.
