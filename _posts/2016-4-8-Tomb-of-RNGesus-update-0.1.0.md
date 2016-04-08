@@ -22,4 +22,4 @@ Since the 7DRL release I've added quite a few things, for example:
 
 I'm still working on balancing combat, and there will likely be big changes by the next release. After I get that where I want it I'm going to add some environmental features for the player and enemies to interact with, mutations for enemies, a boss fight, possibly some sort of potions or scrolls, and of course a massive amount of graphical improvements.
 
-Anyways, the game is available for download [here on itch.io](bunnyhopgames.itch.io/RNGesus). Let me know what you think in the comments!
+Anyways, the game is available for download [here on itch.io](http://bunnyhopgames.itch.io/RNGesus). Let me know what you think in the comments!
