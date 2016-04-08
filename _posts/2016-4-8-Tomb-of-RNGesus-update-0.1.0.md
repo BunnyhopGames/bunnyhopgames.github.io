@@ -7,7 +7,7 @@ title: Tomb of RNGesus update 0.1.0
 So, I wasn't really happy with the way 7DRL turned out this year, but I'm too stubborn to give up on the idea of the game, so I'm continuing to work on it a bit. Today I'm releasing the first major update.
  
 
-![_config.yml]({{ site.baseurl }}/images/RNGesus_gameplay_1.png)
+[Screenshot]({{ site.baseurl }}/images/RNGesus_gameplay_1.png)
 
 Since the 7DRL release I've added quite a few things, for example:
  
