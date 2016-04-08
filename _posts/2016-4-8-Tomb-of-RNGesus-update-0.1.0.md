@@ -9,7 +9,7 @@ So, I wasn't really happy with the way 7DRL turned out this year, but I'm too st
 
 [Screenshot]({{ site.baseurl }}/images/RNGesus_gameplay_1.png)
 
-Since the 7DRL release I've added quite a few things, for example:
+Since the first release I've added quite a few things, for example:
  
 * **Weapons:** There are now 5 different weapon types. Different weapon types have different accuracies, critical hit chances, and damages. In the future I may differentiate the weapons more, perhaps by making some weapons take multiple turns to attack, or attack multiple spaces at once.
 * **Runes:** Most weapons now have "Runes" (which are essentially the same as the Runes in Brogue). A runic weapon will have a special effect whenever attacking an enemy. For instance, Weapons of Ignition will ignite enemies, Weapons of Halting will prevent all enemies from moving on the turn they are used, Weapons of Contingency will deal half damage upon missing an attack, etc.
